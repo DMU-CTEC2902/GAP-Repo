@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FilmReviewWebsite",
+    "\\FilmReviewWebsite\\FilmReviewWebsite",
+    "\\FilmReviewWebsite\\FilmReviewWebsite\\Views",
+    "\\FilmReviewWebsite\\FilmReviewWebsite\\Views\\Home"
   ],
+  "SelectedNode": "\\FilmReviewWebsite\\FilmReviewWebsite\\Views\\Home\\About.cshtml",
   "PreviewInSolutionExplorer": false
 }
