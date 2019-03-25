@@ -231,6 +231,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Views\Home\11.jpg" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -265,6 +266,27 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Home\James.cshtml" />
+    <Content Include="Views\Home\man.cshtml" />
+    <Content Include="Views\Home\Marlon.cshtml" />
+    <Content Include="Views\Home\MIB.cshtml" />
+    <Content Include="Views\Home\popular.cshtml" />
+    <Content Include="Views\Home\Shawshank.cshtml" />
+    <Content Include="Views\Home\Star.cshtml" />
+    <Content Include="Views\Home\Top.cshtml" />
+    <Content Include="Views\Home\Weman.cshtml" />
+    <Content Include="Views\Home\Coppola.cshtml" />
+    <Content Include="Views\Home\Coppola1.cshtml" />
+    <Content Include="Views\Home\Darabont.cshtml" />
+    <Content Include="Views\Home\Director.cshtml" />
+    <Content Include="Views\Home\Farrelly.cshtml" />
+    <Content Include="Views\Home\Godfather.cshtml" />
+    <Content Include="Views\Home\Godfather2.cshtml" />
+    <Content Include="Views\Home\Green.cshtml" />
+    <Content Include="Views\Home\Actor.cshtml" />
+    <Content Include="Views\Home\Alfredo.cshtml" />
+    <Content Include="Views\Home\Bohemian.cshtml" />
+    <Content Include="Views\Home\Coming.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
