@@ -89,7 +89,11 @@ table
 
 
 <div class="row">
-    <div style=" background:url(http://111.231.74.71/11.jpg) top center;background-size: cover;height:100%;width:100%;margin-left:-4.3%;position:fixed; ">
+    <div style=" background:url(http://111.231.74.71/11.jpg) top center;    background-size: cover;
+    height: 100%;
+    width: 102%;
+    margin-left: -14.3%;
+    position: fixed; ">
         <div class="index">
         </div>
 
@@ -98,9 +102,9 @@ table
             <div class="dropdown" style="width: 33%">
                 <button class="dropbtn" style="width: 100%">Movie</button>
                 <div class="dropdown-content" style="width: 99%">
-                    <a href="#">Top Rated</a>
-                    <a href="#">Popular</a>
-                    <a href="#">User Review</a>
+					<a>@Html.ActionLink("Top Rated", "Top", "Home")</a>
+					<a>@Html.ActionLink("Popular", "Popular", "Home")</a>
+					<a>@Html.ActionLink("Coming soon", "Coming", "Home")</a>
                 </div>
             </div>
 
@@ -112,17 +116,14 @@ table
                     <a href="#">Romance</a>
                     <a href="#">Comedy</a>
                     <a href="#">Drama</a>
-                    <a href="#">Horror</a>
-
-
                 </div>
             </div>
 
             <div class="dropdown" style="width: 34%;margin-left: -8px;">
                 <button class="dropbtn" style="width: 100%">People</button>
                 <div class="dropdown-content" style="width: 100%">
-                    <a href="#"> Actor</a>
-                    <a href="#"> Director</a>
+					<a href="#"> @Html.ActionLink("Actor", "Actor", "Home")</a>
+					<a href="#"> @Html.ActionLink("Director", "Director", "Home")</a>
                 </div>
             </div>
         </div>

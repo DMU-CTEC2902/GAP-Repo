@@ -118,6 +118,7 @@ C:\Users\YE\Desktop\New folder (3)\FilmReviewWebsite\FilmReviewWebsite\obj\Debug
 C:\Users\YE\Desktop\New folder (3)\FilmReviewWebsite\FilmReviewWebsite\obj\Debug\FilmReviewWebsite.csproj.CopyComplete
 C:\Users\YE\Desktop\New folder (3)\FilmReviewWebsite\FilmReviewWebsite\obj\Debug\FilmReviewWebsite.dll
 C:\Users\YE\Desktop\New folder (3)\FilmReviewWebsite\FilmReviewWebsite\obj\Debug\FilmReviewWebsite.pdb
+<<<<<<< HEAD
 H:\Desktop\New folder\FilmReviewWebsite\FilmReviewWebsite\bin\ApplicationInsights.config
 H:\Desktop\New folder\FilmReviewWebsite\FilmReviewWebsite\bin\FilmReviewWebsite.dll.config
 H:\Desktop\New folder\FilmReviewWebsite\FilmReviewWebsite\bin\FilmReviewWebsite.dll
@@ -238,3 +239,79 @@ H:\Desktop\New folder\FilmReviewWebsite\FilmReviewWebsite\obj\Debug\FilmReviewWe
 H:\Desktop\New folder\FilmReviewWebsite\FilmReviewWebsite\obj\Debug\FilmReviewWebsite.csproj.CopyComplete
 H:\Desktop\New folder\FilmReviewWebsite\FilmReviewWebsite\obj\Debug\FilmReviewWebsite.dll
 H:\Desktop\New folder\FilmReviewWebsite\FilmReviewWebsite\obj\Debug\FilmReviewWebsite.pdb
+=======
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\ApplicationInsights.config
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\FilmReviewWebsite.dll.config
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\FilmReviewWebsite.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\FilmReviewWebsite.pdb
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Antlr3.Runtime.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\EntityFramework.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Newtonsoft.Json.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Owin.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.Helpers.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.Mvc.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.Optimization.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.Razor.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.WebPages.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\WebGrease.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.Helpers.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.Mvc.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.Optimization.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.Razor.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.WebPages.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Newtonsoft.Json.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\EntityFramework.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\obj\Debug\FilmReviewWebsite.csprojAssemblyReference.cache
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\obj\Debug\FilmReviewWebsite.csproj.CoreCompileInputs.cache
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\obj\Debug\FilmReviewWebsite.csproj.CopyComplete
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\obj\Debug\FilmReviewWebsite.dll
+C:\Users\YE\Desktop\New folder (5)\FilmReviewWebsite\FilmReviewWebsite\obj\Debug\FilmReviewWebsite.pdb
+>>>>>>> 9034f6324cbf6f1bc7eb1b7a5c20dd5b563ce4fe
