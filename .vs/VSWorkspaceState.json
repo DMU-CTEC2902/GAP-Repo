@@ -3,9 +3,8 @@
     "",
     "\\FilmReviewWebsite",
     "\\FilmReviewWebsite\\FilmReviewWebsite",
-    "\\FilmReviewWebsite\\FilmReviewWebsite\\Views",
-    "\\FilmReviewWebsite\\FilmReviewWebsite\\Views\\Home"
+    "\\FilmReviewWebsite\\FilmReviewWebsite\\Views"
   ],
-  "SelectedNode": "\\FilmReviewWebsite\\FilmReviewWebsite\\Views\\Home\\About.cshtml",
+  "SelectedNode": "\\FilmReviewWebsite\\FilmReviewWebsite.sln",
   "PreviewInSolutionExplorer": false
 }
