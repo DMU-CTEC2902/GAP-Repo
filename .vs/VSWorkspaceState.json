@@ -1,14 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\FilmReviewWebsite",
-    "\\FilmReviewWebsite\\FilmReviewWebsite",
-    "\\FilmReviewWebsite\\FilmReviewWebsite\\Views"
+    "\\FilmReviewWebsite"
   ],
-<<<<<<< HEAD
   "SelectedNode": "\\FilmReviewWebsite\\FilmReviewWebsite.sln",
-=======
-  "SelectedNode": "\\FilmReviewWebsite\\FilmReviewWebsite\\Views\\Home\\Alfredo.cshtml",
->>>>>>> 9034f6324cbf6f1bc7eb1b7a5c20dd5b563ce4fe
   "PreviewInSolutionExplorer": false
 }
