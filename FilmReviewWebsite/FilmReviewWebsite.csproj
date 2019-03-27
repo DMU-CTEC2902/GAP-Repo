@@ -293,6 +293,8 @@
     <Content Include="Views\Home\man.cshtml" />
     <Content Include="Views\Movies\delete.cshtml" />
     <Content Include="Views\Movies\create.cshtml" />
+    <Content Include="Views\Person\Create.cshtml" />
+    <Content Include="Views\Person\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
