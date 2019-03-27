@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmReviewWebsite", "FilmReviewWebsite\FilmReviewWebsite.csproj", "{2F9F6F54-7D35-48F4-BBFE-7A3FC247EDBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmReviewWebsite.Tests", "FilmReviewWebsite.Tests\FilmReviewWebsite.Tests.csproj", "{1875CEF9-AAEE-40A9-B7E2-67F75BF7A04D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F9F6F54-7D35-48F4-BBFE-7A3FC247EDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9F6F54-7D35-48F4-BBFE-7A3FC247EDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9F6F54-7D35-48F4-BBFE-7A3FC247EDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9F6F54-7D35-48F4-BBFE-7A3FC247EDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1875CEF9-AAEE-40A9-B7E2-67F75BF7A04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1875CEF9-AAEE-40A9-B7E2-67F75BF7A04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1875CEF9-AAEE-40A9-B7E2-67F75BF7A04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1875CEF9-AAEE-40A9-B7E2-67F75BF7A04D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5E9B3FB-B8CF-4F3F-B54D-114F169456AF}
+	EndGlobalSection
+EndGlobal
