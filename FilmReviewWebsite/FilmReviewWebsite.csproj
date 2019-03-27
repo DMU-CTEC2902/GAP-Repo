@@ -291,6 +291,8 @@
     <Content Include="Views\Home\Weman.cshtml" />
     <Content Include="Views\Home\MIB.cshtml" />
     <Content Include="Views\Home\man.cshtml" />
+    <Content Include="Views\Movies\delete.cshtml" />
+    <Content Include="Views\Movies\create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
